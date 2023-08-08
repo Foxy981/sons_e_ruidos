@@ -1,0 +1,20 @@
+body{
+  
+    font-family: 'Cedarville Cursive', cursive;
+    background-color: rgb(135, 133, 216) ;
+}
+
+.copy_right_footer
+{
+
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149,149);
+
+}
